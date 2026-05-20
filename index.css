@@ -898,8 +898,8 @@ input, textarea, select {
 .pricing-card.featured::before {
   content: 'Most Popular';
   position: absolute;
-  top: 24px;
-  right: -36px;
+  top: 32px;
+  right: -40px;
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
